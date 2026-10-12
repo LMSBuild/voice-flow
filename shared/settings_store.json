@@ -1,0 +1,15 @@
+{
+  "settings": {
+    "selected_model": "parakeet-tdt-0.6b-v3",
+    "push_to_talk": true,
+    "autostart_enabled": true,
+    "update_checks_enabled": false,
+    "show_whats_new_on_update": false,
+    "history_limit": 1000,
+    "log_level": "info",
+    "audio_feedback": true,
+    "mute_while_recording": true,
+    "filler_word_removal_enabled": true,
+    "custom_words": []
+  }
+}

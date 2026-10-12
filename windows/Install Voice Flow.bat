@@ -1,0 +1,3 @@
+@echo off
+echo Starting setup...
+powershell -NoProfile -ExecutionPolicy Bypass -File "%~dp0setup-files\install.ps1"
